@@ -1,0 +1,29 @@
+.App {
+  /* text-align: center; */
+  /* margin-top: 50px; */
+  /* border: 1px solid black; */
+
+  display: flex;
+  /* justify-content:left; */
+
+  margin: auto 50px;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right, #01e26e 0%, #39f694 85%, #72ffb4 0%, #72ffb4 15%);
+  color: white;
+}
+
+.App {
+  margin-top: 50px;
+}
+
+.display {
+  /* height: 25px; */
+}
+
+p {
+  color: black;
+}
